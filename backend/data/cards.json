@@ -1,0 +1,352 @@
+{
+  "Street Art": [
+    {
+      "name": "Wall Murals",
+      "slug": "wall-murals",
+      "description": "Once a bustling free port alive with the chatter of foreign merchants exchanging not just goods but vibrant cultures, Penang was a melting pot of global influences. Fast forward to today, and while the ships may no longer dock for trade, Penang’s allure remains as captivating as ever—this time, fueled by a thriving art scene!\n\nBack in 2012, the George Town Festival set the stage for something extraordinary when they invited Lithuanian artist Ernest Zacharevic to paint six mesmerizing wall murals. Little did anyone know that this creative spark would ignite a street art revolution, transforming George Town into an open-air gallery that captures the hearts of locals and visitors alike.\n\n<div style='display: flex; gap: 20px; justify-content: center; align-items: center; margin: 20px 0;'>\n  <img src='/images/wall-mural-extra-pic-1.jpg' alt='Wall Mural Extra Pic 1' style='width: 45%; max-width: 300px; border-radius: 8px;'>\n  <img src='/images/wall-mural-extra-pic-2.jpg' alt='Wall Mural Extra Pic 2' style='width: 45%; max-width: 300px; border-radius: 8px;'>\n</div>\n\nZacharevic’s murals didn’t just decorate walls; they told stories, invited interaction, and catapulted him to international fame. In return, Penang’s walls became a living canvas for some of the most imaginative and engaging artworks the city has ever seen.\n\n**Murals That Rival Icons**\n\nToday, some of these murals have achieved iconic status, standing shoulder to shoulder with Penang’s beloved landmarks like the towering KOMTAR building or the nostalgic Penang Ferry. This artistic boom has turned Penang into a playground for creativity, drawing in local and international artists who continue to paint the city with their talent and vision.\n\nSo whether you're a seasoned art enthusiast or just someone looking for a fun Instagram-worthy adventure, Penang’s street art promises an experience that’s as colorful and diverse as the island itself. Come and explore—you never know what masterpiece you’ll stumble upon next!",
+      "type": "image",
+      "media": "/images/wall-mural.jpg"
+    },
+    {
+      "name": "Urban Exchange",
+      "slug": "urban-exchange",
+      "description": "Urban Exchange isn’t just about painting walls—it’s about transforming how we see and interact with public art. This groundbreaking project has opened up a dynamic platform for collaboration and dialogue among artists from all corners of the globe, spanning diverse disciplines and generations.\n\nWhat makes Urban Exchange so special? It’s the magic that happens when ideas and perspectives collide. The result? Stunning, boundary-pushing artworks that challenge conventions and redefine creativity. These pieces are more than just art—they’re conversations, experiences, and stories waiting to be discovered.\n\nWhether you’re a curious traveler or an art enthusiast, Urban Exchange invites you to explore a world where innovation meets imagination. Come and be inspired by the unexpected—you’ll leave with more than just great photos; you’ll take home unforgettable memories of art that dares to dream big!\n\n<div style='display: flex; justify-content: center; gap: 20px; margin-top: 20px;'><img src='/images/culture-exchange-extra-pic-1.jpg' alt='Culture Exchange 1' style='width: 30%; border-radius: 8px;' /><img src='/images/culture-exchange-extra-pic-2.jpg' alt='Culture Exchange 2' style='width: 30%; border-radius: 8px;' /></div>",      
+      "type": "image",
+      "media": "/images/urban-exchange.jpg"
+    },
+    {
+      "name": "Wire Sculptures",
+      "slug": "wire-sculptures",
+      "description": "Walk around George Town and spot these slightly cheeky, comic-style wire sculptures.\n\nIn 2009, the Penang State Government commissioned 52 uniquely designed wire sculptures to be placed around the city. Each one tells fascinating historical tidbits that you probably wouldn’t find in conventional guidebooks.<div style=\"display: flex; justify-content: center; gap: 20px; margin-top: 20px;\"><img src=\"/images/wire-sculptures-extra-pic-1.jpg\" alt=\"Wire Sculptures 1\" style=\"width: 30%; border-radius: 8px;\" /><img src=\"/images/wire-sculptures-extra-pic-2.jpg\" alt=\"Wire Sculptures 2\" style=\"width: 30%; border-radius: 8px;\" /></div>\n\nWhy are Tok Tok noodles named so? Which street did the Japanese plant their spies before they occupied Malaya? What happened at Love Lane to have it earn its name? Find out by looking a little closer the next time you come across a wire sculpture, and you may just find yourself chuckling away.",
+      "type": "image",
+      "media": "/images/wire-sculptures.jpg"
+    },
+    {
+      "name": "Butterworth Art Walk",
+      "slug": "butterworth-art-walk",
+      "description": "The mural scene at Seberang Perai may have blossomed later, but it is quickly catching up with George Town’s iconic street art.\n\nThe Butterworth Art Walk is a brilliant creation of Penang’s talented artists, infused with the state’s rich history. With its eye-catching murals and installations, it offers visitors a unique opportunity to learn about the mainland’s colourful past.<div style=\"display: flex; justify-content: center; gap: 20px; margin-top: 20px;\"><img src=\"/images/art-walk-extra-pic-1.jpg\" alt=\"Art Walk Extra Pic 1\" style=\"width: 30%; border-radius: 8px;\" /><img src=\"/images/art-walk-extra-pic-2.jpg\" alt=\"Art Walk Extra Pic 2\" style=\"width: 30%; border-radius: 8px;\" /></div>\n\nDid you know Seberang Perai once had a thriving agricultural economy or that it was involved in exporting elephants? These fascinating tidbits are just some of the stories you’ll uncover while strolling through the small alley on Jalan Bagan Luar. Who knew history could make such a quirky and Instagram-worthy backdrop for your next photo op?<div style=\"display: flex; justify-content: center; margin-top: 20px;\"><img src=\"/images/art-walk-extra-pic-3.jpg\" alt=\"Art Walk Extra Pic 3\" style=\"width: 40%; border-radius: 8px;\" /></div>",
+      "type": "image",
+      "media": "/images/butterworth-art-walk.jpg"
+    }
+  ],
+  "Heritage Zones": [
+    {
+      "name": "Landmarks",
+      "slug": "landmarks",
+      "description": "Topping many must-visit lists, Penang is undoubtedly Malaysia’s most well-known tourist destination.\n\nMade from a heady mix of culture, art, food, and nature, Penang engages the mind and senses like no other place can. Experience its mouth-watering cuisine, breathtaking heritage architecture, quirky art spots, and relaxing beaches. Penang is a feast in every sense for visitors seeking the authentic taste of Asia.<div style=\"display: flex; justify-content: center; gap: 20px; margin-top: 20px;\"><img src=\"/images/landmark-extra-pic-1.jpg\" alt=\"Landmark Extra Pic 1\" style=\"width: 40%; border-radius: 8px;\" /><img src=\"/images/landmark-extra-pic-2.jpg\" alt=\"Landmark Extra Pic 2\" style=\"width: 40%; border-radius: 8px;\" /></div>\n\nPenang’s attractions are countless, but here are some of the best ones you simply shouldn’t miss!",
+      "type": "image",
+      "media": "/images/landmarks.jpg"
+    },
+    {
+      "name": "Museums & Art Galleries",
+      "slug": "museums-art-galleries",
+      "description": "With a treasure trove of heritage to draw from, Penang boasts an abundance of fascinating museums. Dive into the captivating stories that shaped Penang’s rich and diverse cultural landscape. But the history doesn’t stop there! Beyond traditional museums, Penang is peppered with beautifully preserved heritage residences and clan houses, each a historical gem waiting to be explored.\n\n<div style=\"display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;\"><img src=\"/images/museum-extra-pic-1.jpg\" alt=\"Museum Extra Pic 1\" style=\"width: 30%; border-radius: 8px;\" /><div style=\"display: flex; flex-direction: column; gap: 10px;\"><img src=\"/images/museum-extra-pic-2.jpg\" alt=\"Museum Extra Pic 2\" style=\"width: 70%; border-radius: 8px;\" /><img src=\"/images/museum-extra-pic-3.jpg\" alt=\"Museum Extra Pic 3\" style=\"width: 70%; border-radius: 8px;\" /></div></div>\n\nWhile Penang’s street art often steals the spotlight, the state’s art scene is brimming with even more creative surprises. Step into the many art galleries scattered across the island, and you’ll uncover a vibrant world of inspiration drawn from life in the Pearl of the Orient. From contemporary pieces to traditional masterpieces, there’s always something to spark your imagination.\n\nWhat’s even better? Penang’s compact size makes it a breeze to explore. Whether on foot or by bicycle, hopping from one attraction to the next feels like an adventure, not a chore. So, get ready to wander, marvel, and immerse yourself in all the cultural and artistic treasures this little state has to offer!",
+      "type": "image",
+      "media": "/images/museum-art-galleries.jpg"
+    },
+    {
+      "name": "Traditional Trades",
+      "slug": "traditional-trades",
+      "description": "Aside from its tangible heritage, Penang is a keeper of priceless intangible heritage in the form of its skilled artisans.\n\nThese talented individuals, many of whom are ageing and represent the last of their generation, hold onto skills that are nothing short of treasures. In a world dominated by mass production, these artisans remain true to their craft, dedicating countless hours to handmaking items like rattan furniture, traditional headwear, and intricate paper houses for the deceased.\n\nTheir dedication is a testament to Penang’s rich cultural soul—a glimpse into a world where craftsmanship is revered and every piece tells a story. Don’t miss the chance to discover and appreciate these timeless traditions on your journey through this remarkable island!\n\n<div style=\"display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; justify-content: center; margin-top: 20px;\">\n  <img src=\"/images/traditional-extra-pic-1.jpg\" alt=\"Traditional Extra Pic 1\" style=\"width: 90%; border-radius: 8px; margin: 0 auto;\" />\n  <img src=\"/images/traditional-extra-pic-2.jpg\" alt=\"Traditional Extra Pic 2\" style=\"width: 90%; border-radius: 8px; margin: 0 auto;\" />\n  <img src=\"/images/traditional-extra-pic-3.jpg\" alt=\"Traditional Extra Pic 3\" style=\"width: 90%; border-radius: 8px; margin: 0 auto;\" />\n  <img src=\"/images/traditional-extra-pic-4.jpg\" alt=\"Traditional Extra Pic 4\" style=\"width: 90%; border-radius: 8px; margin: 0 auto;\" />\n</div>",
+      "type": "image",
+      "media": "/images/traditional-trades.jpg"
+    },
+    {
+      "name": "Peranakan",
+      "slug": "peranakan",
+      "description": "The Baba-Nyonya, or Peranakan Chinese, are early immigrants from China who embraced local beliefs and practices, creating a unique culture entirely their own.\n\nWhile Peranakan culture is found in both Penang and Malacca, the Penang Peranakans have their own distinct characteristics that set them apart. Both communities use a mix of Hokkien and Malay in their language, but in Penang, Peranakans primarily speak Hokkien with borrowed Malay words. In contrast, the Malaccan Peranakans have adopted a Malay patois, sprinkled with some Hokkien words.\n\n<div style=\"display: flex; justify-content: center; gap: 10px; margin-top: 20px;\">\n  <img src=\"/images/peranakan-extra-image-1.jpg\" alt=\"Peranakan Extra Image 1\" style=\"width: 40%; border-radius: 8px;\" />\n  <img src=\"/images/peranakan-extra-image-2.jpg\" alt=\"Peranakan Extra Image 2\" style=\"width: 40%; border-radius: 8px;\" />\n</div>\n\nThe Peranakan style of cooking is another beautiful fusion of Chinese and Malay elements. In Penang, however, you’ll find an added Thai influence, bringing a delightful sweet and sour twist to the cuisine and giving it a unique flavor that sets it apart from its Malaccan counterpart.\n\nFrom rituals and cuisine to dressing and language, the Peranakan Chinese have created a seamless blend of cultures that is a true hallmark of Penang’s vibrant multi-cultural heritage. Dive into this rich tapestry of tradition and experience the remarkable fusion that defines the Peranakan identity!\n\n<div style=\"display: flex; justify-content: center; margin-top: 20px;\">\n  <img src=\"/images/peranakan-extra-image-3.jpg\" alt=\"Peranakan Extra Image 3\" style=\"width: 60%; border-radius: 8px;\" />\n</div>",
+      "type": "image",
+      "media": "/images/peranakan.jpg"
+    }
+  ],
+  "Places of Worship": [],
+  "Recreations": [
+    {
+      "name": "Golfing in Penang",
+      "slug": "golfing-in-penang",
+      "description": "Whether you prefer teeing off amid lush greenery or along scenic valley fringes, Penang offers excellent golf courses designed to international standards.\n\nPenang is the perfect destination for those who want to combine a memorable vacation with an exciting game of golf. With a variety of stunning courses to choose from, golfers of all levels will find something to love. Among the most popular golf courses in the state are:\n\n• Penang Golf Club\n• Bukit Jawi Golf Resort\n• Penang Golf Resort\n• Penang Turf Club Golf Course\n• Mountain View Golf Resort\n\nSo pack your clubs and get ready to swing in paradise, where every game comes with breathtaking views and a touch of Penang’s charm!",
+      "type": "image",
+      "media": "/images/golfing.jpg"
+    },
+    {
+      "name": "Bukit Panchor State Park",
+      "slug": "bukit-panchor-state-park",
+      "description": "A well-developed state recreation park that is brimming with wildlife, a flowing river, and lush greenery. Perfect for an adventurous nature escapade, this park offers plenty to explore! Discover the mangroves’ diverse life forms, wander through bat caves, and stroll along the wetland boardwalk for an unforgettable experience in nature.\n\n**Operating Days:**\nMonday - Sunday\n\n**Operating Hours:**\n7:00 AM - 6:00 PM\n\n**Contact Number:**\n+604 650 5250\n\n**Address:**\nJalan Taman Bukit Negeri, 14300 Nibong Tebal, Penang, MALAYSIA\n\nMake sure to pack your sense of adventure and prepare for a day surrounded by the beauty of Penang’s natural treasures!",
+      "type": "image",
+      "media": "/images/bukit-panchor-state-park.jpg"
+    },
+    {
+      "name": "Air Hitam Dalam Educational Forest",
+      "slug": "air-hitam-dalam-forest",
+      "description": "A freshwater swamp spanning approximately 10 hectares, the Air Hitam Dalam Educational Forest is a hidden gem located in the north of Province Wellesley (Seberang Perai Utara). Its name, ‘Air Hitam Dalam,’ originates from the nearby deep and dark river, adding a touch of mystery to this enchanting place.\n\nThis forest is home to a thriving ecosystem with a diverse range of plants and animals, particularly birds. Bird enthusiasts will love the two observation towers connected by a 210-meter suspension bridge, providing excellent vantage points. For an immersive experience, explore the 1,163-meter boardwalk that winds through canopied birding spots, offering a close encounter with nature.\n\n<div style='display: flex; justify-content: center; gap: 20px; margin: 20px 0;'>\n  <img src='/images/air-hitam-extra-pic-1.jpg' alt='Air Hitam Pic 1' style='width: 35%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n  <img src='/images/air-hitam-extra-pic-2.jpg' alt='Air Hitam Pic 2' style='width: 35%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n</div>\n\n**Website:**\nhttps://www.facebook.com/airhitamdalam/\n\n**Address:**\n13310 Air Hitam, Penang, Malaysia\n\nPerfect for nature lovers and birdwatchers alike, Air Hitam Dalam promises a serene and educational escape into Penang’s natural beauty!",
+      "type": "image",
+      "media": "/images/air-hitam-dalam-forest.jpg"
+    },
+    {
+      "name": "Bukit Mertajam Recreational Forest",
+      "slug": "bukit-mertajam-forest",
+      "description": "Bukit Mertajam Recreational Forest is a haven for health-conscious individuals and outdoor enthusiasts. Surrounded by lush greenery, it’s the perfect spot for activities like hiking and jogging, offering a refreshing escape into nature.\n\n**Operating Days:**\nMonday - Sunday\n\n**Operating Hours:**\n7:00 AM - 7:00 PM\n\n**Contact Number:**\n+604 539 1743\n\n**Address:**\nCherok Tok Kun, Jalan Kolam Air, Mukim 15, Bukit Mertajam, 14000 Penang, MALAYSIA\n\nWhether you’re looking to break a sweat or simply enjoy the tranquility of nature, Bukit Mertajam Recreational Forest is the ideal destination to recharge and reconnect with the great outdoors!",
+      "type": "image",
+      "media": "/images/bukit-mertajam-recrea-forest.jpg"
+    }
+  ],
+  "Parks & Gardens": [
+    {
+      "name": "Penang Hill",
+      "slug": "penang-hill",
+      "description": "Penang Hill, or Bukit Bendera, is a must-visit destination that offers breathtaking views, lush greenery, and charming British bungalows—a perfect spot to enjoy afternoon tea in cooler climes. Take a scenic seven-minute ride on the funicular train to the top, or for the adventurous, embark on an invigorating jungle hike.\n\nDon’t miss **The Habitat**, the latest attraction on Penang Hill. This ecological gem is home to thousands of plants, ferns, animals, insects, and reptiles, providing visitors with an authentic rainforest experience. Immerse yourself in nature and rediscover the magical simplicity of the wild.\n\n**Operating Days:**\nMonday - Sunday\n\n**Operating Hours:**\n6:30 AM - 11:00 PM (Last train from the top station)\n\n**Ticket Counter Operating Hours:**\n6:30 AM - 9:45 PM\n\n**Contact Number:**\n+604 828 8880\n\n**Email:**\ninfo@penanghill.gov.my\n\n**Website:**\nhttp://www.penanghill.gov.my\n\n**Address:**\nJalan Bukit Bendera, 11500 Ayer Itam, Penang, MALAYSIA\n\nWhether you’re seeking panoramic views, a touch of history, or a deep connection with nature, Penang Hill has something extraordinary for everyone!",
+      "type": "image",
+      "media": "/images/penang-hill.jpg"
+    },
+    {
+      "name": "Penang Botanic Gardens",
+      "slug": "penang-botanic-gardens",
+      "description": "Over a hundred years old, the Penang Botanic Gardens is a tranquil escape for anyone seeking a refreshing dose of greenery. Known for its stunning flora and fauna, it’s particularly famous for the long-tailed macaque monkeys that roam freely throughout the gardens. \n\nA favorite spot for joggers and brisk walkers, the gardens feature manicured lawns, nurseries showcasing hundreds of plant species, and plenty of walking paths. For those feeling adventurous, forest trails within the gardens lead all the way up to Penang Hill, offering a perfect blend of exercise and nature.\n\n**Operating Days:**\nMonday - Sunday\n\n**Operating Hours:**\n7:00 AM - 7:00 PM\n\n**Contact Number:**\n+604 226 4401\n\n**Entrance Fee:**\nFree\n\n**Email:**\nbotani@penang.gov.my\n\n**Website:**\nhttp://botanicalgardens.penang.gov.my/\n\n**Address:**\nKompleks Pentadbiran, Bangunan Pavilion, Jalan Kebun Bunga, 10350 George Town, Pulau Pinang\n\nWhether you’re here to stroll, jog, or simply soak in the beauty of nature, the Penang Botanic Gardens is a must-visit haven for all nature lovers!",
+      "type": "image",
+      "media": "/images/penang-botan-garden.jpg"
+    },
+    {
+      "name": "Sia Boey",
+      "slug": "sia-boey",
+      "description": "In October 2015, a fascinating discovery was made when a granite structure was uncovered and later identified as the Old Prangin Canal Basin by the Centre for Global Archaeological Research, Universiti Sains Malaysia. This discovery paved the way for the Sia Boey Rejuvenation Project, launched on 25 March 2018, with the vision of creating a harmonious blend of development and heritage conservation.\n\nThe Sia Boey Urban Archaeological Park is now a vibrant addition to the George Town UNESCO World Heritage Site. It enriches the site’s outstanding universal value by providing a space for the local community while preserving its cultural and historical essence. The area features beautifully restored shophouses, programming for cultural heritage education, urban greenery, and sustainable development—truly a perfect example of heritage and modernity coexisting.\n\nHistorically, Sia Boey was an early trading hub in George Town, with bustling activities centered around the Prangin Canal, the 19th-century market hall, and surrounding shophouses. Its name, “Sia Boey” in Hokkien and “Ujong Pasir” in Malay, translates to “end of the town,” symbolizing its central role as a meeting and gathering place for the community.\n\nToday, Sia Boey continues to draw people with its revitalized charm. Its koi fish-filled Prangin Canal has become Penang’s latest Instagram superstar, surrounded by ancient trees and featuring a super cool playground for kids to burn off energy.\n\n**Entrance Fee:**\nFree\n\n**Address:**\n50, Jalan Dr Lim Chwee Leong, 10100 George Town, Pulau Pinang\n\nWhether you’re here to admire the blend of history and modernity, take photos, or simply relax amidst the greenery, Sia Boey is a must-visit gem in the heart of George Town!",
+      "type": "image",
+      "media": "/images/sia-boey.jpg"
+    },
+    {
+      "name": "Penang National Park",
+      "slug": "penang-national-park",
+      "description": "The Penang National Park is a true natural treasure and one of the world’s smallest forest reserves. It is home to Malaysia’s only meromictic lake and an estimated 150 bird species, making it a paradise for nature enthusiasts and bird watchers.\n\nThe park offers plenty of exciting jungle trails suitable for various fitness levels, pristine sandy beaches, and the opportunity to explore its stunning natural beauty. For those seeking a bit more adventure, boats can be hired for day trips, BBQs, and tours around the serene mangrove swamps.\n\n**Operating Days:**\nMonday - Sunday\n\n**Operating Hours:**\n8:00 AM - 4:30 PM\n\n**Contact Numbers:**\n+604 881 3530 / +604 881 3500\n\n**Email:**\ntnpp@wildlife.gov.my\n\n**Website:**\nhttp://www.wildlife.gov.my/index.php/en/public/2016-05-10-02-34-43/peta\n\n**Address:**\nJalan Hassan Abas, 11050 George Town, Pulau Pinang, MALAYSIA\n\nWith its rich biodiversity, scenic trails, and tranquil beaches, Penang National Park is the perfect destination for a day of exploration and relaxation in nature. Best of all, entrance is free—so pack your sense of adventure and get ready to explore!",
+      "type": "image",
+      "media": "/images/penang-national-park.jpg"
+    },
+    {
+      "name": "Tropical Spice Garden",
+      "slug": "tropical-spice-garden",
+      "description": "Spanning over eight acres of lush secondary jungle, the Tropical Spice Garden is a feast for the senses, featuring more than 500 species of tropical flora and fauna. A visit here isn’t just beautiful—it’s educational too! Experience the fascinating 45-minute audio tour, which guides you through the garden’s highlights, including the water garden, spices terraces, bamboo garden, and beverages of the world, among others.\n\nRecognized by the Malaysia Book of Records as the first tropical climate spice garden, this enchanting destination is a must-visit for anyone in Penang. Immerse yourself in the vibrant world of spices, plants, and tropical wonders, and leave with a wealth of fun facts and knowledge.\n\n**Operating Days:**\nMonday - Sunday\n\n**Operating Hours:**\n9:00 AM - 6:00 PM (Last admission at 5:15 PM)\n\n**Contact Numbers:**\n+604 881 1797 / +6012 430 7795\n\n**Email:**\ninfo@tropicalspicegarden.com\n\n**Website:**\nhttp://tropicalspicegarden.com/\n\n**Address:**\nLot 595 Mukim, 2, Jalan Teluk Bahang, Teluk Bahang, 11050 George Town, Pulau Pinang, Malaysia\n\nA trip to the Tropical Spice Garden promises a delightful blend of beauty, education, and inspiration, making it an unforgettable highlight of your Penang adventure!",
+      "type": "image",
+      "media": "/images/tropical-spice-garden.jpg"
+    },
+    {
+      "name": "Tropical Fruit Farm",
+      "slug": "tropical-fruit-farm",
+      "description": "With a collection of over 250 different species of tropical fruits from across the region and as far as Central and South America, Central Africa, India, the Middle East, the Caribbean, and the Pacific Islands, Tropical Fruit Farm is a carefully curated paradise for fruit lovers and nature enthusiasts alike.\n\nSpanning 25 acres, this orchard is committed to sustainable farming, using organic fertilizers and minimizing the use of chemicals to cultivate rare and exotic fruits. The farm also embraces eco-friendly practices by converting fruit waste into fertilizers, promoting a cleaner and greener environment.\n\nEver wondered what a Buddha’s Hand Citron or a Bullock’s Heart looks and tastes like? A visit to the Tropical Fruit Farm has all the answers! Visitors can enjoy guided tours, fruit tasting, and even buffet packages, making it a fun and educational outing for the whole family.\n\n**Entrance Fee Options:**\n\n**Guided Farm Tour – Premium Package**\nMalaysians & PRs: RM30 per pax\nNon-Malaysians: RM40 per pax\nChildren (aged 5-12) - Malaysians & PRs: RM20 per pax\nChildren (aged 5-12): RM30 per pax\nChildren 4 years and below: Free\n*Duration: About 1 hour\n*No prior booking is required, unless for a party of 20 pax and above.\n\n**Guided Farm Tour with Buffet Lunch Package**\nMalaysians & PRs: RM65 per pax\nNon-Malaysians: RM75 per pax\nChildren (aged 5-12) - Malaysians & PRs: RM55 per pax\nChildren (aged 5-12): RM65 per pax\nChildren 4 years and below: Free\n*Duration: About 2 hours\n*Advance booking required with a minimum of 20 persons.\n\n**Guided Farm Tour with Set Lunch Package**\nMalaysians & PRs: RM45 per pax\nNon-Malaysians: RM55 per pax\nChildren (aged 5-12) - Malaysians & PRs: RM35 per pax\nChildren (aged 5-12): RM45 per pax\nChildren 4 years and below: Free\n*Duration: About 2 hours\n*Advance booking required with a minimum of 20 persons.\n\n**Guided Farm Tour – VIP Private Package**\nMalaysians & PRs: RM230 per pax\nNon-Malaysians: RM240 per pax\nChildren (aged 5-12) - Malaysians & PRs: RM220 per pax\nChildren (aged 5-12): RM230 per pax\nChildren 4 years and below: Free\n*Duration: About 1 hour\n*No prior booking is required, unless for a party of 20 pax and above.\n\n**Operating Days:**\nMonday - Sunday\n\n**Operating Hours:**\n9:00 AM - 5:00 PM (Last admission at 4:30 PM)\n\n**Contact Number:**\n+6012 497 1931\n\n**Email:**\ncounter@tropicalfruitfarm.com.my\n\n**Website:**\nhttps://tropicalfruitfarm.com.my/\n\n**Address:**\n18th Mile Stone, Jalan Teluk Bahang, Teluk Bahang, 11050, Pulau Pinang, Malaysia\n\nA visit to the Tropical Fruit Farm is more than just a feast for the taste buds—it’s an opportunity to explore, learn, and immerse yourself in the incredible world of tropical fruits. Don’t miss out on this fruity paradise in Penang!",
+      "type": "image",
+      "media": "/images/tropical-fruit-farm.jpg"
+    },
+    {
+      "name": "Durian Farms",
+      "slug": "durian-farms",
+      "description": "The King of Fruits is definitely an acquired taste. With its strong aroma, creamy texture, and sweet flesh, durian isn’t quite like any other fruit—and for first-timers, it can be an overwhelming experience. However, for those who adore it, durian is more than just a fruit; it’s a passion, and people come from near and far to indulge in the very best.\n\nIn Balik Pulau, you'll find a farm that caters to every durian lover's preferences—whether you’re into hybrids, organic varieties, or the classic kampung durian (wild durian). While debates may rage on about which type of durian is the best tasting, one thing is clear: Balik Pulau is the ultimate destination to savor the freshest, most delicious durians in all of Penang.\n\nIf you’re a true durian enthusiast, a visit to Balik Pulau is a must for an authentic and unforgettable durian experience!\n\n<div style='display: flex; justify-content: center; align-items: flex-start; gap: 24px; margin-top: 20px;'>\n  <img src='/images/durian-farm-extra-pic-1.jpg' alt='Durian Farm Pic 1' style='width: 30%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n  <div style='display: flex; flex-direction: column; gap: 15px;'>\n    <img src='/images/durian-farm-extra-pic-2.jpg' alt='Durian Farm Pic 2' style='width: 70%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n    <img src='/images/durian-farm-extra-pic-3.jpg' alt='Durian Farm Pic 3' style='width: 70%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n  </div>\n</div>",
+      "type": "image",
+      "media": "/images/durian-farms.jpg"
+    },
+    {
+      "name": "Teluk Bahang Recreational Park (Taman Rimba)",
+      "slug": "teluk-bahang-park",
+      "description": "Also known as the Teluk Bahang Recreational Park, Taman Rimba is a sprawling 32-hectare forest park that offers a fantastic introduction to the Malaysian rainforest. Whether you’re looking for a family picnic, a camping trip, or an outdoor adventure, this park has something for everyone. Equipped with picnic and camping areas, a playground, a forestry museum, and an extensive network of hiking trails, Taman Rimba is a nature lover’s paradise.\n\nTake to the trails and immerse yourself in the wide variety of flora and fauna that thrive in their natural habitat. The highlight of the park is undoubtedly the picturesque waterfall, where you can take a refreshing dip while soaking in the lush greenery around you—a perfect way to cool off after a hike.\n\n**Contact Numbers:**\nJabatan Perhutanan Negeri Pulau Pinang:\n+604 650 5250 / +604 650 5251\n\nPejabat Hutan Daerah Pulau (Barat Daya) Taman Rimba Telok Bahang:\n+604 885 1280\n\n**Entrance Fee:**\nFree\n\n**Email:**\njhnpp@penang.gov.my\n\n**Website:**\nhttp://jhn.penang.gov.my/\n\n**Address:**\nLorong Rimba, Teluk Bahang, 11050 Tanjung Bungah, Pulau Pinang, Malaysia\n\nWhether you’re hiking, camping, or simply enjoying a relaxing day amidst nature, Taman Rimba promises a serene and rejuvenating experience for all ages!",
+      "type": "image",
+      "media": "/images/taman-rimba.jpg"
+    }
+  ],
+  "Adventure & Nature": [
+    {
+      "name": "Escape",
+      "slug": "escape",
+      "description": "There are certain childhood joys you never outgrow—climbing trees, swinging from ropes, and letting your imagination run wild. At Escape, you get to relive all those moments but with a thrilling twist! Amp up the fun with high-intensity activities like backflips on trapeze swings, soaring through the treetops on zip lines, or racing down the exhilarating tubby slide. And don’t worry—everything is equipped with auto-belay systems and safety nets, so you can focus on the excitement without a care.\n\n<div style='display: flex; justify-content: center; margin: 20px 0;'>\n  <img src='/images/escape-extra-pic-1.jpg' alt='Escape Extra Pic 1' style='width: 80%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n</div>\n\nEscape truly offers something for everyone, including the little ones. Active kids will love Zoom Bug, a human-powered go-kart, or Foxy Burrow, a caving adventure. For the tiny tots, there’s Discovery Dig, where they can play pretend miners and hunt for hidden gems in the sand.\n\nBreaking away from the usual theme park rides, Escape is an outdoor adventure park spread across 22 acres, featuring Adventureplay, Gravityplay, and Waterplay zones. Don’t miss the highlight—the World's Longest Water Slide, a record-breaking attraction that guarantees endless fun for both kids and adults!\n\n<div style='display: flex; justify-content: center; margin: 20px 0;'>\n  <img src='/images/escape-extra-pic-2.jpg' alt='Escape Extra Pic 2' style='width: 80%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n</div>\n\n**Operating Days:**\nTuesday - Sunday (Closed on Monday)\n\n**Operating Hours:**\n10:00 AM - 6:00 PM\n\n**Contact Number:**\n017-797 7529 (WhatsApp only)\n\n**Email:**\nsales@escape.my\n\n**Website:**\nhttp://www.escape.my/\n\n**Address:**\n828 Jalan Teluk Bahang, Teluk Bahang, 11050 Tanjung Bungah, Penang, MALAYSIA\n\nWhether you're a thrill-seeker or simply looking for a fun day out with the family, Escape promises an unforgettable experience that combines adventure, laughter, and outdoor fun in one incredible location!",
+      "type": "image",
+      "media": "/images/escape.jpg"
+    },
+    {
+      "name": "The Habitat",
+      "slug": "the-habitat",
+      "description": "The Habitat Penang Hill offers Malaysia’s most authentic, diverse, and educational rainforest experience. Nestled on the fringes of an ancient forest reserve protected since 1911, it features a 1.6km nature trail originally built by the British East India Company in the early 1800s. This is where history, nature, and adventure come together in an unforgettable experience.\n\nAs you explore the trail, you’ll encounter a stunning variety of flora and fauna, and breathtaking views of Penang and beyond from **Curtis Crest Tree Top Walk**, the highest public viewing point on the island. For those seeking a unique perspective, the **Langur Way Canopy Walk** is a must-see. It’s the world’s longest two-span stressed ribbon bridge and the only one set within a pristine rainforest, offering unparalleled views of the rainforest canopy, where over 50% of the biodiversity thrives.\n\nFor thrill-seekers, the **Flight of the Colugo** zipline experience is an adventure like no other. Featuring five ziplines, one abseil, and a net bridge walk through the canopy, this guided experience is led by a professionally certified aerial trail team.\n\nBeyond the adventure, The Habitat is committed to sustainability and conservation. All proceeds go to **The Habitat Foundation**, a charitable trust supporting strategic conservation and research initiatives in Malaysia and Southeast Asia. By reconnecting visitors with nature, The Habitat inspires choices for a sustainable future and fosters an appreciation for the delicate rainforest ecosystem.\n\n**Operating Days:**\nDaily\n\n**Operating Hours:**\n9:00 AM - 7:00 PM (Exit by 8:00 PM)\n\n**Contact Number:**\n+604 826 7677\n\n**Email:**\ninquiry@thehabitat.my\n\n**Website:**\nhttps://thehabitat.my/\n\n**Address:**\nJalan Stesen, Bukit Bendera Air Itam, 11500 Penang, Pulau Pinang, MALAYSIA\n\nWhether you’re an avid nature lover, a thrill-seeker, or someone looking to reconnect with the beauty of the natural world, The Habitat Penang Hill promises an inspiring and unforgettable rainforest adventure.",
+      "type": "image",
+      "media": "/images/the-habitat.jpg"
+    },
+    {
+      "name": "Entopia by Penang Butterfly Farm",
+      "slug": "entopia-penang",
+      "description": "Relaunched after an extensive facelift, Entopia by Penang Butterfly Farm is a magical butterfly enclave that is home to approximately 15,000 butterflies, along with dragonflies and fireflies. Perfect for visitors of all ages, Entopia offers an ideal blend of entertainment and education, making it a must-visit destination for families and nature enthusiasts.\n\n**Operating Days:**\nMonday - Sunday (including public holidays)\n**Closed on Wednesdays**\n\n**Operating Hours:**\n9:00 AM - 6:00 PM (Last ticket sale and entry at 5:00 PM)\n\n**Contact Number:**\n+604 888 8111\n\n**Email:**\ninfo@entopia.com\n\n**Website:**\nhttps://entopia.com/\n\n**Address:**\n830, Jalan Teluk Bahang, Teluk Bahang, 11050, Penang, MALAYSIA\n\nImmerse yourself in the vibrant world of butterflies and other fascinating creatures at Entopia, where every corner is buzzing with life and wonder. It’s a place that will captivate your imagination and leave you with unforgettable memories!",
+      "type": "image",
+      "media": "/images/entopia-butterfly.jpg"
+    },
+    {
+      "name": "Air Itam Dam",
+      "slug": "air-itam-dam",
+      "description": "The Air Itam Dam is a serene and picturesque spot perfect for a gentle stroll, an energizing jog, or an adventurous hike. Surrounded by lush, verdant hills and, on clear days, a vibrant blue sky, it’s no wonder the dam is a popular weekend destination. From the 800-foot crest of the dam, visitors are rewarded with a breathtaking panorama of George Town.\n\nFor those who enjoy hiking, the dam offers various trails catering to different endurance levels. The shortest trail takes about an hour to complete, while the longest can be finished in four hours, making it an excellent way to immerse yourself in the beauty of Penang’s landscape.\n\n**Address:**\nJalan Balik Pulau, Air Itam, 11500, Penang, MALAYSIA\n\nWhether you’re in the mood for a peaceful walk or an invigorating hike, the Air Itam Dam offers a refreshing escape and stunning views that are sure to leave you in awe.",
+      "type": "image",
+      "media": "/images/air-itam-dam.jpg"
+    },
+    {
+      "name": "Beaches",
+      "slug": "beaches",
+      "description": "A visit to an island is never complete without experiencing its beaches, and Penang is no exception. The island’s diversity isn’t just cultural—it extends to its stunning array of beaches. Whether you’re looking for a glamorous five-star hotel with a beachfront, an activity-packed stretch offering parasailing and jet skiing, or a secluded spot to soak up the sun, Penang’s beaches cater to every taste and preference.\n\n<div style='display: flex; justify-content: center; margin: 20px 0;'>\n  <img src='/images/beach-extra-pic-1.jpg' alt='Beach Extra Pic 1' style='width: 80%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n</div>\n\nThe well-known beaches are popular for a reason. **Batu Ferringhi** and **Tanjung Bungah** are bustling with hotels, resorts, and dining options. Thrill-seekers can enjoy parasailing, banana boat rides, or jet skiing here, as recreational activities are plentiful. However, do note that visitors patronizing waterfront facilities at Batu Ferringhi do so at their own risk.\n\nFor a more tranquil experience, head to the beaches in **Teluk Bahang**, accessible by boat rides or hikes through the Penang National Park. These secluded gems, such as **Mas Beach** and **Kerachut Beach**, are perfect for a peaceful swim and quiet relaxation.\n\n**Miami Beach**, located near Batu Ferringhi, offers a quieter escape thanks to a rocky outcrop that keeps the crowds at bay. It’s a perfect spot for a serene beach day.\n\n**Gertak Sanggul Beach** invites visitors with its pristine white sands and deliciously fresh seafood. For the more adventurous, a two-hour hike from Gertak Sanggul leads to **Pasir Panjang**, a secluded beach surrounded by green forests and rubber estates.\n\n**Bakar Kapur Beach** is a hidden retreat with a rocky terrain that keeps it off the radar for most tourists. Those who make the effort are rewarded with a peaceful, shaded haven ideal for picnics.\n\n**Fisherman’s Beach**, true to its name, offers an authentic experience where visitors can watch fishermen return after a day at sea. This hidden gem remains off the beaten path, making it a perfect spot for solitude and connection with nature.\n\n<div style='display: flex; justify-content: center; gap: 20px; margin: 20px 0;'>\n  <img src='/images/beach-extra-pic-2.jpg' alt='Beach Extra Pic 2' style='width: 30%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n  <img src='/images/beach-extra-pic-3.jpg' alt='Beach Extra Pic 3' style='width: 30%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n  <img src='/images/beach-extra-pic-4.jpg' alt='Beach Extra Pic 4' style='width: 30%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);' />\n</div>\n\nFor something truly unique, take a boat to **Pulau Aman**, a charming mini island with plenty to offer. Explore historical landmarks like the Pirates’ Cave or indulge in a variety of recreational activities, making it a well-rounded destination for beach lovers.\n\nWhether you’re seeking adventure, relaxation, or a mix of both, Penang’s beaches promise an unforgettable island experience for every visitor!",
+      "type": "image",
+      "media": "/images/beaches.jpg"
+    },
+    {
+      "name": "Balik Pulau",
+      "slug": "balik-pulau",
+      "description": "Slow the clock down with a trip to **Balik Pulau**, a charming town nestled in Penang’s tranquil rural heartland. Surrounded by lush hills, fruit plantations, paddy fields, and quaint fishing villages, Balik Pulau offers a serene escape from the hustle and bustle of city life.\n\nThe town’s laid-back atmosphere is matched by its reputation for great food and a genuine rural vibe. It’s the perfect place to immerse yourself in Penang’s more traditional and slower-paced way of life.\n\nWithin Balik Pulau, **Jalan Bahru** showcases the idyllic Malay kampung lifestyle with plenty of exciting outdoor activities. Stay at a homestay and explore the picturesque rural surroundings on a bicycle, all set against a stunning green backdrop. For a touch of indulgence, treat yourself to a traditional massage and a soothing herbal steam bath.\n\nWhether you’re cycling through scenic landscapes or simply soaking in the peaceful charm of kampung life, Balik Pulau is a destination that promises relaxation, discovery, and an authentic taste of Penang’s countryside.",
+      "type": "image",
+      "media": "/images/balik-pulau.jpg"
+    },
+    {
+      "name": "Bird Watching",
+      "slug": "bird-watching",
+      "description": "Penang is a bird-watcher’s paradise, home to an estimated 420 species of birds, including some rare specimens. Both the island and the mainland boast an incredible variety of bird species, making it a must-visit destination for amateur and experienced bird enthusiasts alike.\n\nThe diverse bird habitats in Penang include lowland forests, mangrove forests, tidal mudflats, wetlands, and paddy fields. Commonly spotted birds include various species of eagles, owls, songbirds, waders, and water birds, comprising both resident and migratory species.\n\nFor the best bird-watching experiences, here are some top locations on the island and mainland:\n\n1. Penang Bird Park\n2. Penang National Park\n3. Penang Hill\n4. Penang Botanic Gardens\n5. Bukit Panchor State Park\n6. Air Hitam Dalam Education Forest\n7. Bukit Mertajam Amenity Forest\n8. Bukit Juru Forest Reserve\n9. Sungai Burung in Balik Pulau\n10. Teluk Air Tawar in Butterworth\n\nWhether you're a seasoned birder or a curious nature lover, Penang’s rich avian diversity and picturesque habitats promise a rewarding and unforgettable bird-watching adventure.",
+      "type": "image",
+      "media": "/images/bird-watching.jpg"
+    }
+  ],
+    "Food and Beverages": [
+    { 
+      "name": "Assam Laksa", 
+      "slug": "assam-laksa", 
+      "description": "Voted as the no.7 most delicious foods by CNNGo, Penang Assam Laksa is definitely a must-eat when you are in Penang. With a strong fish and tamarind soup base and thick rice noodles, this sour and spicy dish is both light and substantial that will definitely get you addicted. It’s available in most coffee shops and street food stalls in Penang.", 
+      "media": "/images/assam-laksa.jpg" 
+    },
+    { 
+      "name": "Char Koay Teow", 
+      "slug": "char-koay-teow", 
+      "description": "To find the famous Penang Char Koay Teow, just follow your nose and you’ll soon be indulging in a plate of the famous Penang fried flat rice noodles. Distinctive and unique in its taste, there is no char koay teow elsewhere that tastes like the char koay teow in Penang. It’s available in most coffee shops and street food stalls in Penang.", 
+      "media": "/images/char-koay-teow.jpg" 
+    },
+    { 
+      "name": "Nyonya Kuih & Dishes", 
+      "slug": "nyonya-kuih", 
+      "description": "<h2 style='font-size: 24px; font-weight: bold;'>Nyonya Kuih</h2>Kuih – these are Malay or Nyonya sweets. They are normally rice flour based with coconut milk, steamed or baked and are very colourful. Some contain glutinous rice, palm sugar and additional flavours are derived from natural sources such as pandan leaves.\n\nWhere to try: The stall on Jalan Jones, off Jalan Kelawei, has an array of Malay kuih. As for Nyonya kuih, you can go to Moh Teng Pheow on Jalan Masjid, off Lebuh Chulia.<br><img src='/images/Nyonya_Dishes.jpg' alt='Nyonya Dishes' style='margin-top:10px; width:100%; border-radius:8px;'><h2 style='font-size: 24px; font-weight: bold; margin-top: 10px;'>Nyonya Dishes</h2><p style='margin-top: 10px;'>As you would have guessed by now, there are quite a few different types of cuisines when it comes to Chinese food. It all depends on which part of China from which they had migrated. The Nyonya flavours are a step up and they are birthed from the collision of Chinese and Malay cultures. The result is a dilution of both original flavours into something quite unique that marries rich robust spices with the faint opulence of slow cooking. The dishes such as pork in cincalok, ponteh chicken, assam fish and otak-otak exude unpretentious yet dignified flavours with a lingering finish on the palate.<br><br>Where to try: Mama’s on Lorong Abu Siti, Perut Rumah on Jalan Bawasah, Ivy’s Nyonya Cuisine on Jalan Chow Thye, Winn’s Café on Jalan Irrawady, Nyonya Breeze Desire at Straits Quay and the list goes on.</p>",
+      "media": "/images/nyonya-kuih.jpg" 
+    },
+    { 
+      "name": "Ais Tingkap", 
+      "slug": "ais-tingkap", 
+      "description": "While it may look like a simple drink, preparation involves a number of steps. The guy fills the glass with shaved ice, sugar syrup, getah anggur, rose essence and basil seeds. Then he sprays a mixture of Indian herbs, adds coconut water, coconut flesh and tops the glass with more shaved ice.", 
+      "media": "/images/ais-tingkap.jpg" 
+    },
+    { 
+      "name": "Teochew Chendol", 
+      "slug": "teochew-chendol", 
+      "description": "Don’t worry about not finding the small lane where this famous Penang Teochew Cendol stall is located. Spot the long queue off Jalan Penang and you are at the right place. Cool yourself down after a walk round George Town with a bowl of Penang cendol, a local dessert with a coconut milk and gula Melaka (palm sugar) base, topped with red beans, pandan flavoured noodles and shaved ice.", 
+      "media": "/images/teochew-chendol.jpg" 
+    },
+    { 
+      "name": "Nasi Kandar", 
+      "slug": "nasi-kandar", 
+      "description": "The Indians, whether Muslim or Hindu faith, had given Penang its most famous and sought-after cuisine – the nasi kandar. People have been known to travel from all over just to score a plate of rice utterly drenched in at least two types of lively-flavoured curries accompanied by fried chicken, fish, mutton or seafood and a myriad of vegetables. What started as peddling rice and curries, hand-carried in pots to port workers in Penang, nasi kandar has certainly come a long way since then. It’s no surprise since the Indians came from a land of spices from which they expertly grind into various curry pastes that produce robust and colourful curries and marinade.\n\nWhere to try: Hameediyah restaurant on Lebuh Campbell, Line Clear on Jalan Penang and Nasi Beratur on Jalan Masjid Kapitan Keling in George Town, as well as a couple of nasi kandar restaurants on Jalan Todak 4 in Seberang Perai.", 
+      "media": "/images/nasi-kandar.jpg" 
+    },
+    { 
+      "name": "Curry Mee", 
+      "slug": "curry-mee", 
+      "description": "With the Penang White Curry Mee becoming famous worldwide, do not miss trying out the original Penang Curry Mee when you’re in Penang. The Penang Curry Mee comes in a light curry soup base, yellow noodles and rice noodles, garnished with dried tofu, beansprouts and more. It’s available in most coffee shops and street food stalls in Penang.", 
+      "media": "/images/curry-mee.jpg" 
+    },
+    { 
+      "name": "Nasi Lemak", 
+      "slug": "nasi-lemak", 
+      "description": "Small triangular packets of rice cooked in coconut milk accompanied by a dollop of sambal, hard-boiled egg and crispy fried anchovies are ubiquitous.\n\nWhere to try: Find pyramids of these packets atop tables at most coffee shops or watch out for them at little stalls on street corners.", 
+      "media": "/images/nasi-lemak.jpg" 
+    },
+    { 
+      "name": "Mee Goreng", 
+      "slug": "mee-goreng", 
+      "description": "Indian moist stir-fried yellow egg noodles in special spicy-sweet gravy or blanched noodles in the same gravy. Sometimes you get to try this dish doused with strips of cuttlefish in its special sauce.\n\nWhere to try: The mobile stall at the corner of Armenian Street, The Esplanade Park Food Court, Sri Weld Food Court and within a coffee shop on Bangkok Lane.", 
+      "media": "/images/mee-goreng.jpg" 
+    },
+    { 
+      "name": "Penang Rojak", 
+      "slug": "penang-rojak", 
+      "description": "Penang Rojak can count as a healthy dessert option in Penang. Loaded with more than your 5-a-day fibre needs, Penang Rojak is made from a variety of fruits and vegetables topped with Penang’s own creation of prawn paste sauce. You can also choose to have it spicy or non-spicy.", 
+      "media": "/images/penang-rojak.jpg" 
+    },
+    { 
+      "name": "Chee Cheong Fun", 
+      "slug": "chee-cheong-fun", 
+      "description": "Done differently from the famous Cantonese Chee Cheong Fun, Penang Chee Cheong Fun is finished with a mixture of prawn paste, sweet sauce, fried shallots and more. It’s available in most coffee shops and street food stalls in Penang.", 
+      "media": "/images/chee-cheong-fun.jpg" 
+    },
+    { 
+      "name": "Lok-Lok", 
+      "slug": "lok-lok", 
+      "description": "A popular street food in Penang, lok-lok offers an array of deep-fried foods, seafood, meat and vegetables served on a skewer. You select your choice of lok-lok and dip into the boiling water to cook. Then you smother your lok-lok with your choice of sauces available in front of you. The skewers are colour-coded at the end of the stick, this is an indication to how much you have to pay when you are done.", 
+      "media": "/images/lok-lok.jpg" 
+    },
+    { 
+      "name": "Hokkien Mee", 
+      "slug": "hokkien-mee", 
+      "description": "The Penang Hokkien Mee is made delicious by its rich prawn and pork soup base.  It’s normally eaten with yellow noodles and rice noodles, however occasionally, Penangites opt to have it with instant noodles. Penang Hokkien Mee is always garnished with fried shallots and special spicy prawns. It’s available in most coffee shops and street food stalls in Penang.", 
+      "media": "/images/hokkien-mee.jpg" 
+    },
+    { 
+      "name": "Nasi Melayu", 
+      "slug": "nasi-melayu", 
+      "description": "Also known as Malay rice, you have a plate of white rice with more than 20 dishes to choose from such as Assam Pedas, Rendang, stir-fried or blanched vegetables, fresh herbs served raw or mixed as a salad called Kerabu and deep-fried marinated fish or chicken.\n\nWhere to try: Just off Jalan Tanjung Bungah, up a slight hill and across the road from the floating mosque in Tanjung Bungah.", 
+      "media": "/images/nasi-melayu.jpg" 
+    },
+    { 
+      "name": "Pasembur", 
+      "slug": "pasembur", 
+      "description": "A smorgasbord of deep-fried fritters, tofu, hard-boiled egg and julienned vegetables smothered in spicy-sweet peanut sauce.\n\nWhere to try: The little shack on Lebuh Union, George Town. You can also try this at Gurney Drive Hawker Centre.", 
+      "media": "/images/pasembur.jpg" 
+    },
+    { 
+      "name": "Kway Chap", 
+      "slug": "kway-chap", 
+      "description": "Kway chap is a braised duck noodle with duck meat, skin, intestine, coagulated blood and braised duck egg in a herbal broth unique to Penangites. This is the most common comfort food you can find in Penang but not widely available in all restaurants. Your best find would be at Lebuh Kimberley.", 
+      "media": "/images/kway-chap.jpg" 
+    },
+    { 
+      "name": "Tau Sar Piah", 
+      "slug": "tau-sar-piah", 
+      "description": "Traditional Penang Tau Sar Piah (bean-paste biscuits) is a pastry that has an addictive taste of mildly sweet filling wrapped in a flaky shell. It travels well, has a long shelf life and makes a good gift.", 
+      "media": "/images/tau-sar-piah.jpg" 
+    },
+    { 
+      "name": "Vegetarian Food", 
+      "slug": "vegetarian-food", 
+      "description": "Penang is also an ideal destination for vegetarians as the veggie food scene in Penang is ever growing. There is an abundance of Chinese and Indian vegetarian food outlets that are suitable for vegans too. A number of Chinese vegetarian restaurants serve the vegetarian version of Penang’s local street food such as laksa, char koay teow, nasi lemak, curry mee and lor bak, where mock meat is used. There are also restaurants that serve purely organic food packed with loads of goodness.", 
+      "media": "/images/vegetarian-food.jpg" 
+    }
+  ],
+  "Shopping and Spa": [
+    { 
+      "name": "Chowrasta Market", 
+      "slug": "chowrasta-market", 
+      "description": "Shopping in Penang is a larger-than-life experience! Whether you are a fan of modern shopping malls, or traditional bazaars and street markets, Penang has something for everyone.\n\nGeorge Town is a great place for antique hunters and vintage lovers. One can spend a whole day hunting for Nyonya porcelain, lacquerware and pottery along stores on Penang Road and Chulia Street. For those who prefer to shop in comfort and from a more curated collection, there are antique outlets in malls like Gurney Plaza as well.<br><img src='/images/Market.jpg' alt='Market' style='margin-top:10px; width:100%; border-radius:8px;'>The city is also home to some of the oldest bazaars and markets in the country. Traditional craftsmen and modern artisans, inspired by the city’s ebb and flow as a trading centre create a wide range of unique products including carved signboards, contemporary & traditional Indian jewellery and fused glass.\nExperience real Penang indulgence at luxury spas or seek out traditional Asian medicine practitioners to melt those worries away. Finish off a relaxing day with retail therapy at a night market.\n\nWhen the sun goes down, the action heats up! Shopping malls and shops don’t close until 10pm so there’s plenty of time to wander around and work up a thirst at the many watering holes in George Town and the beach area of Batu Ferringhi.", 
+      "media": "/images/chowrasta-market.jpg" 
+    },
+    { 
+      "name": "Shopping Malls", 
+      "slug": "shopping-malls", 
+      "description": "You will sometimes hear that shopping is the favourite pastime of Malaysians. Without a doubt, Penang has its impressive share of shopping malls to satisfy any shopaholic.\n\nIn the heart of the city lies Penang’s famous landmark – KOMTAR. The iconic building holds many mid-range local boutiques and electronic stores. Head to level 4 and visit Penang House of Music to learn about the state’s glamorous musical lineage. Discover The Top, Penang’s newest icon within KOMTAR that features large indoor theme attractions including a glass-bottomed Rainbow Skywalk and Observatory Deck, at 250m above the ground. There is also a walkway that links KOMTAR to 1st Avenue Mall, a newer mall with trendy high-street labels, karaoke joint and a cinema. Other popular shopping venues include Gurney Plaza and Gurney Paragon, both a stone’s throw away from each other on Gurney Drive.\n\nA strategic shopping pitstop is Queensbay Mall, the largest in Penang with over 500 tenants. Located just 10 minutes away from the Penang Bridge and Penang’s International Airport, the mall is a perfect start or finish to one’s trip in Penang.\n\nStraits Quay is a marina-fronting upscale mall where shoppers can take a breather by heading out to enjoy the sea breeze and marvel at the docked luxury yachts. Besides being home to Penang Performing Arts Centre (penangpac), the mall also actively hosts workshops, contests and weekend markets.\n\nThe first outlet mall in Penang and the largest one in Malaysia, Design Village is a sprawling complex that perpetually offers discounts. Buy branded apparels and home appliances at marked down prices here and return home with the satisfaction of grabbing a good deal.", 
+      "media": "/images/shopping-malls.jpg" 
+    },
+    {
+      "name": "Spas & Massages",
+      "slug": "spas-massages",
+      "description": "After some high-octane adventuring, it’s time to unwind and relax. Soak in the laid-back island vibes and head to a nearby spa or a massage centre. Whether you prefer getting your massage enveloped by lush nature or surrounded by clean lines, there is an option catered just to your taste. Pick from traditional Thai massages, foot reflexology or float in a sensory deprivation chamber and feel all the tension in your body melt away.<br><br><span style='font-size: 0.9rem; font-style: italic;'>Photo courtesy of ShangriLa Rasa Sayang Resort.</span>",
+      "media": "/images/spas-massages.jpg"
+    }
+  ],
+  "Entertainment": [
+    { 
+      "name": "Night Life", 
+      "slug": "night-life", 
+      "description": "Penang’s a productive holiday destination and its work-life balance is exemplary. Part of that balance is a fair amount of night spots where you can sit at the end of a workday and order up your favourite tipple.", 
+      "media": "/images/night-life.jpg" 
+    },
+    { 
+      "name": "Night Markets", 
+      "slug": "night-markets", 
+      "description": "Pasar Malam or night markets happen weekly to serve the needs of the neighbouring communities. Street vendors set up their stalls along roads around 6.30pm on a particular day of the week, usually near a densely populated residential area. Everyday household items and clothing are sold at affordable prices next to mouth-watering street food.<br><img src='/images/Night_Market.jpg' alt='Night_Market' style='margin-top:10px; width:100%; border-radius:8px;'>Paying a visit to a night market is a perfect opportunity to sample local food, practice bargaining skills and maybe purchase a quirky t-shirt. It’s loud, bright, crowded and a great plunge into the local culture that will definitely leave an impression.\n\nPick a day or pick a place:\nMonday – Maccallum Street\nTuesday – Tanjung Bungah\nWednesday – Farlim\nThursday – Batu Ferringhi\nFriday – Jelutong\nSaturday – Sungai Dua\nSunday – Paya Terubong", 
+      "media": "/images/night-markets.jpg" 
+    },
+    {
+      "name": "Arts Centre",
+      "slug": "arts-centre",
+      "description": "Get a taste of the local performing arts scene at Penang Performing Arts Centre (penangpac). The venue features a proscenium theatre, an experimental black box theatre, exhibition space and multi-purpose studios for rehearsals. Experience the world through a Penangite’s perspective by watching a local production that takes you into the imaginations of Penang’s greatest artistic minds.<br><br><div style='display: flex; justify-content: space-between; gap: 10px;'><img src='/images/ArtsCentre1.jpg' alt='Arts Centre 1' style='width: 48%; border-radius: 8px;'><img src='/images/ArtsCentre2.jpg' alt='Arts Centre 2' style='width: 48%; border-radius: 8px;'></div>",
+      "media": "/images/arts-centre.jpg"
+    }
+  ]
+}

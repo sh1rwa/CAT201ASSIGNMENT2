@@ -1,0 +1,95 @@
+/* src/components/PlacesOfWorship.css */
+
+/* General Styles */
+.places-of-worship-page {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  background-color: #f8f5f0; /* Matching background color */
+  min-height: 100vh; /* Ensure background color covers full viewport */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Header Section */
+.places-header {
+  height: 400px;
+  position: relative;
+}
+
+.places-title-overlay {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.places-title {
+  color: #fff;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+/* Content Box */
+.places-content-box {
+  margin: 50px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.places-content-box ul {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+.places-content-box li {
+  margin-bottom: 10px;
+}
+
+.places-content-box b {
+  color: #000;
+}
+
+/* Image Layout Section */
+.end-images-layout {
+  display: flex;
+  margin: 30px 0;
+  gap: 20px;
+}
+
+.left-image {
+  flex: 1;
+}
+
+.left-image-item {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.right-images {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.right-image-item {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Filler for Full-Height Background */
+.page-footer-filler {
+  flex-grow: 1; /* Ensures the background color extends to the bottom */
+}

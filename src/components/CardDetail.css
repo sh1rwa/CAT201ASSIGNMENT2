@@ -1,0 +1,83 @@
+/* src/components/CardDetail.css */
+
+/* Style for the card detail page */
+.card-detail-page {
+  background-color: #f9f5f0; /* Light beige background */
+  padding: 20px; /* Add padding around the page */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Header media (image/video/gif) */
+.card-detail-header {
+  width: 100%;
+  max-width: 1200px; /* Ensure the media doesn't stretch too wide */
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px; /* Add slight rounding to the corners */
+}
+
+/* Full media container */
+.card-detail-header img,
+.card-detail-header video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the media covers the area */
+  border-radius: 8px; /* Match the border rounding */
+}
+
+/* Title styling (overlay on the media) */
+.card-detail-header .card-title {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Content box for details */
+.card-detail-content-box {
+  background-color: #ffffff; /* White background */
+  max-width: 1200px;
+  width: 100%;
+  padding: 20px;
+  margin-top: 20px; /* Add spacing below the media */
+  border-radius: 8px; /* Add slight rounding */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Title in the content box (if needed separately) */
+.card-detail-content-box .card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Description text */
+.card-detail-content-box .card-description {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.card-description {
+  white-space: pre-wrap; /* Ensures \n is treated as a line break */
+  word-wrap: break-word; /* Prevents long words from breaking the layout */
+  font-family: Arial, Helvetica, sans-serif;
+}
+.description-image {
+  max-width: 100%;
+  margin: 10px 0;
+  border-radius: 8px;
+}

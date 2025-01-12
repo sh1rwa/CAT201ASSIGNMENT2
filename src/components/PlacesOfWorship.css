@@ -1,0 +1,85 @@
+/* src/components/PlacesOfWorship.css */
+
+/* General Styles */
+.places-of-worship-page {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  background-color: #f8f5f0; /* Matching background color */
+}
+
+/* Header Section */
+.places-header {
+  height: 400px;
+  position: relative;
+}
+
+.places-title-overlay {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.places-title {
+  color: #fff;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+/* Content Box */
+.places-content-box {
+  margin: 50px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.places-content-box ul {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+.places-content-box li {
+  margin-bottom: 10px;
+}
+
+.places-content-box b {
+  color: #000;
+}
+
+/* Middle Image */
+.middle-image-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.middle-image {
+  width: 80%; /* Adjust size as needed */
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* End Images Section */
+.end-images-container {
+  margin: 40px auto;
+  text-align: center;
+}
+
+.end-images-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.end-image {
+  width: 45%; /* Adjust size for smaller images */
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

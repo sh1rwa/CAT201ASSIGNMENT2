@@ -1,0 +1,67 @@
+/* src/components/BeInspired.css */
+
+/* General Styles */
+.be-inspired-page {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f8f5f0; /* Matching background color with Places of Worship */
+  }
+  
+  /* Header Section */
+  .be-inspired-header {
+    height: 400px;
+    position: relative;
+  }
+  
+  .be-inspired-title-overlay {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Transparent overlay */
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .be-inspired-title {
+    color: #fff;
+    font-size: 2.5rem;
+    margin: 0;
+  }
+  
+  /* Content Box */
+  .be-inspired-content-box {
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    line-height: 1.6;
+    text-align: justify;
+  }
+  
+  .be-inspired-content-box h2 {
+    font-size: 1.5rem;
+    color: #073763;
+    margin-bottom: 1rem;
+  }
+  
+  .be-inspired-content-box p {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  /* Center-aligned image styling */
+  .image-container {
+    text-align: center;
+    margin: 20px 0; /* Adjust spacing between the image and text */
+  }
+  
+  .centered-image {
+    width: 80%; /* Adjust size as needed */
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  

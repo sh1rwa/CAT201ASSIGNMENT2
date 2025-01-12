@@ -1,0 +1,50 @@
+.things-to-do {
+    padding: 20px;
+    text-align: center;
+    overflow-y:auto;
+    max-height: 80vh;
+  }
+  
+  .category-section {
+    margin-bottom: 40px;
+  }
+  
+  .category-section h3 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    text-align: left;
+  }
+  
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .category-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .category-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .category-card h4 {
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .category-card:hover {
+    transform: scale(1.05);
+  }
+  

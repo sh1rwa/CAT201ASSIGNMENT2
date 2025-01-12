@@ -1,0 +1,133 @@
+.homepage {
+    position: relative;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    justify-content: center; /* Centers the content horizontally */
+    align-items: center; /* Centers the content vertically */
+    text-align: center; /* Centers text inside the header */
+}
+
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Places the video behind content */
+}
+
+.background-vid {
+    object-fit: cover; /* Ensures the video covers the screen */
+    width: 100%;
+    height: 100%;
+}
+
+.homepage-header {
+    position: relative;
+    text-align: center;
+    padding: 100px 20px;
+    color: white;
+}
+
+.homepage-header h1 {
+    font-size: 3em;
+}
+
+.homepage-header p {
+    font-size: 1.5em;
+}
+
+.homepage-header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.homepage-header nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+.homepage-header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.homepage-header nav ul li a:hover {
+    background-color: white;
+    color: black;
+}
+
+section {
+    padding: 60px 20px;
+}
+
+#about-penang {
+    background-color: transparent;
+    color: white;
+}
+
+#explore {
+    background-color: transparent;
+    color: white;
+}
+
+
+.homepage-footer {
+    position: fixed; /* Fixes the footer to the bottom of the viewport */
+    bottom: 0; /* Aligns the footer to the bottom */
+    left: 0; /* Ensures the footer stretches across the screen */
+    width: 100%; /* Makes the footer span the full width */
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent black background */
+    color: white; /* White text color */
+    text-align: center; /* Centers the text */
+    padding: 20px 10px; /* Adds padding for better spacing */
+    font-size: 14px; /* Sets the font size */
+    z-index: 10; /* Ensures the footer is above other elements */
+}
+  
+  .homepage-footer p {
+    margin: 0;
+  }
+  
+  .homepage-footer .footer-links {
+    margin-top: 10px;
+  }
+  
+  .homepage-footer .footer-links a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .homepage-footer .footer-links a:hover {
+    text-decoration: underline;
+  }
+
+/* Media query adjustments for smaller screens */
+@media (max-width: 768px) {
+    .homepage {
+        height: auto; /* Let the homepage adjust to the content height */
+    }
+
+    .video-container {
+        height: 100vh; /* Ensure the video does not take up full screen height on mobile */
+    }
+
+    .homepage-header {
+        padding: 50px 20px; /* Adjust padding for mobile */
+    }
+}
+
+/*@media (min-width: 768px) {
+    .homepage {
+        height: 100vh;
+    }
+
+    .video-container {
+        height: 100%;
+    }
+}*/
